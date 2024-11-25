@@ -1,1 +1,0 @@
-# reproducer-che-vscode-openshift-udi9
