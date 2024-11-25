@@ -4,4 +4,4 @@ metadata:
 components:
   - name: dev-tooling
     container:
-      image: quay.io/devfile/universal-developer-image:ubi9-latest
+      image: registry.access.redhat.com/ubi9/ubi:9.5
